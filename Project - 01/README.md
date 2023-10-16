@@ -3,6 +3,9 @@ The project is a text-based game called "Wordle" where the player attempts to gu
 The game provides multiple difficulty levels, and the player has a limited number of attempts to guess the word correctly. 
 The game tracks the number of correct letters in the correct positions and the number of correct letters in misplaced positions.
 
+
+Wordle, offers both entertainment and educational value. It expands players vocabulary, challenges logic and deduction, and provides a variable and engaging experience. Building such a game also serves as a valuable practice ground for coding skills, including file I/O, randomization, and input handling.
+
 ALGORITHM
 **Input:**
 -Load the dictionary of common English words from a file.
